@@ -1,0 +1,1 @@
+module.exports = "the right file was loaded";
